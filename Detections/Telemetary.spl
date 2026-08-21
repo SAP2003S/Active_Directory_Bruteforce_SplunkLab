@@ -1,0 +1,4 @@
+index=endpoint spandey
+index=endpoint EventCode=4625 spandey
+index=endpoint EventCode=4624 spandey
+index=endpoint "NewLocalUser"
