@@ -1,6 +1,7 @@
 # 🌐 Telemetry Pipeline & Network Flow
 
 ## 🗺️ Visual Network Topology
+
 +---------------------------------------------------------------------------------------------------+
 |                                Host-Only Virtual Subnet: 192.168.10.0/24                          |
 |                                                                                                   |
