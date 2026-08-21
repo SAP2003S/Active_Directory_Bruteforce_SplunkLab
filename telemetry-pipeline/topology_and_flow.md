@@ -1,7 +1,12 @@
 # 🌐 Telemetry Pipeline & Network Flow
 
-## 🗺️ Visual Network Topology
+> **Environment Baseline:** Fully isolated host-only virtual network segment (`192.168.10.0/24`) designed for controlled adversary simulation and high-fidelity SOC log ingestion.
 
+---
+
+## 🗺️ Visual Architecture Diagram
+
+```text
 +---------------------------------------------------------------------------------------------------+
 |                                Host-Only Virtual Subnet: 192.168.10.0/24                          |
 |                                                                                                   |
